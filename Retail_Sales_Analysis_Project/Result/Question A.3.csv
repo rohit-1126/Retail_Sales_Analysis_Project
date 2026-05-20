@@ -1,0 +1,12 @@
+custId,companyName,contactName,contactTitle,address,city,region,postalCode,country,phone,mobile,email,fax
+1,"Customer NRZBB","Allen, Michael","Sales Representative","Obere Str. 0123",Berlin,NULL,10092,Germany,030-3456789,NULL,NULL,030-0123456
+6,"Customer XHXJV","Poland, Carole","Sales Representative","Forsterstr. 7890",Mannheim,NULL,10117,Germany,0621-67890,NULL,NULL,0621-12345
+17,"Customer FEVNN","Jones, TiAnna","Order Administrator","Walserweg 4567",Aachen,NULL,10067,Germany,0241-789012,NULL,NULL,0241-345678
+25,"Customer AZJED","Carlson, Jason","Marketing Manager","Berliner Platz 9012",München,NULL,10091,Germany,089-8901234,NULL,NULL,089-5678901
+39,"Customer GLLAG","Song, Lolan","Sales Associate","Maubelstr. 8901",Brandenburg,NULL,10060,Germany,0555-34567,NULL,NULL,NULL
+44,"Customer OXFRU","Louverdis, George","Sales Representative","Magazinweg 8901","Frankfurt a.M.",NULL,10095,Germany,069-7890123,NULL,NULL,069-4567890
+52,"Customer PZNLA","Dupont-Roc, Patrice","Marketing Assistant","Heerstr. 4567",Leipzig,NULL,10125,Germany,0342-12345,NULL,NULL,NULL
+56,"Customer QNIVZ","Marinova, Nadejda",Owner,"Mehrheimerstr. 9012",Köln,NULL,10047,Germany,0221-0123456,NULL,NULL,0221-7890123
+63,"Customer IRRVL","Veronesi, Giorgio","Accounting Manager","Taucherstraße 1234",Cunewalde,NULL,10126,Germany,0372-12345,NULL,NULL,NULL
+79,"Customer FAPSM","Wickham, Jim","Marketing Manager","Luisenstr. 0123",Münster,NULL,10118,Germany,0251-456789,NULL,NULL,0251-012345
+86,"Customer SNXOJ","Syamala, Manoj","Sales Representative","Adenauerallee 7890",Stuttgart,NULL,10086,Germany,0711-345678,NULL,NULL,0711-901234
