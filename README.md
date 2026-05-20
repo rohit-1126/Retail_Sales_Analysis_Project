@@ -65,17 +65,18 @@ customer behavior, and product analysis using
 Retail-Sales-SQL-Project/
 │
 ├── README.md
-├── Dataset_Script.sql
-├── Solution_Script.sql
-├── Project_Retail_Sales.md
-├── Result/
-│   ├── Question A.1.csv
-│   ├── Question A.2.csv
-│   ├── Question A.3.csv
-│   ├── Question B.1.csv
-│   ├── ..
-│   ├── ..
-│   ├── And so on
+├── Project_Sales_Analysis_Project/
+│   ├── Data_Script.sql
+│   ├── Project_Retail_Sales.md
+│   ├── Solution_Script.sql
+│   ├── Result/
+│       ├── Question A.1.csv
+│       ├── Question A.2.csv
+│       ├── Question A.3.csv
+│       ├── Question B.1.csv
+│       ├── ..
+│       ├── ..
+│       ├── And so on
 ```
 
 ---
