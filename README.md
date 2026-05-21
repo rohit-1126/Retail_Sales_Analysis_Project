@@ -62,10 +62,10 @@ customer behavior, and product analysis using
 ## Project Structure
 
 ```text
-Retail-Sales-SQL-Project/
+Retail_Sales_Analysis_Project/
 │
 ├── README.md
-├── Project_Sales_Analysis_Project/
+├── Retail_Sales_Analysis_Project/
 │   ├── Data_Script.sql
 │   ├── Project_Retail_Sales.md
 │   ├── Solution_Script.sql
