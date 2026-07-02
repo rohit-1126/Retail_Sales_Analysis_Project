@@ -2,7 +2,7 @@
 
 # Overview
 This project analyzes the Retail_Sales database using SQL to generate business insights related to sales performance, 
-customer behavior, and product analysis using
+customer behavior, and product analysis.
 
 ---
 
